@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://ponylang.github.io/glob/</loc>
-     <lastmod>2021-09-03</lastmod>
+     <lastmod>2022-01-16</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/glob/glob--index/</loc>
-     <lastmod>2021-09-03</lastmod>
+     <lastmod>2022-01-16</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/glob/glob-GlobHandler/</loc>
-     <lastmod>2021-09-03</lastmod>
+     <lastmod>2022-01-16</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ponylang.github.io/glob/glob-Glob/</loc>
-     <lastmod>2021-09-03</lastmod>
+     <lastmod>2022-01-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
